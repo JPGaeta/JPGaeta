@@ -2,9 +2,9 @@
 
 :man_student: **Studying:** Computer Systems Analyst at [FACENS](https://www.facens.br);
 
-💻 **Skills:** JavaScript, React, Redux 
+📚 **Skills:** JavaScript, React, Redux; 
 
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+💻 **Main Tools:** Visual Studio Code and GitHub;
 
 :raising_hand_man: **Social Networks:** [LinkedIn](https://www.linkedin.com/in/jpgaeta/);
 
