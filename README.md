@@ -6,7 +6,7 @@
 
 💻 **Main Tools:** Visual Studio Code and GitHub;
 
-:raising_hand_man: **Social Networks:** [LinkedIn](https://www.linkedin.com/in/jpgaeta/) and [Email](mailto:jpgaeta.dev@gmail.com);
+:raising_hand_man: **Contact me:** [LinkedIn](https://www.linkedin.com/in/jpgaeta/) and [Email](mailto:jpgaeta.dev@gmail.com);
 
 <h2 align="center"> Stats 📈 </h2>
 
