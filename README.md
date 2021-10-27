@@ -15,7 +15,7 @@
     <img     
       align="center"
       height="165" 
-      width="411"
+      width="405"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgaeta&layout=compact&theme=tokyonight"
     />
   </a>
@@ -23,7 +23,7 @@
     <img
       align="center"
       height="165"
-      width="411"
+      width="405"
       src="https://github-readme-stats.vercel.app/api?username=jpgaeta&theme=tokyonight&show_icons=true"
     />
   </a>
