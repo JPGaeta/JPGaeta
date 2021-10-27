@@ -14,7 +14,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img     
       align="center"
-      height="165"       
+      height="165" 
+      width="411"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgaeta&layout=compact&theme=tokyonight"
     />
   </a>
@@ -22,6 +23,7 @@
     <img
       align="center"
       height="165"
+      width="411"
       src="https://github-readme-stats.vercel.app/api?username=jpgaeta&theme=tokyonight&show_icons=true"
     />
   </a>
