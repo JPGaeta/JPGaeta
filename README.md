@@ -2,7 +2,7 @@
 
 :man_student: **Studying:** Computer Systems Analyst at [FACENS](https://www.facens.br);
 
-📚 **Skills:** NodeJS, React, JavaScript, Redux; 
+📚 **Skills:** NodeJS, TypeScript, GO, Python, React; 
 
 💻 **Main Tools:** Visual Studio Code and GitHub;
 
