@@ -1,6 +1,6 @@
 <h2 > Hey there, I'm Gaeta <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30" height="30"  /> </h2>
 
-:man_student: **Studying:** Computer Systems Analyst at [FACENS](https://www.facens.br);
+:man_student: **Built in:** Computer Systems Analyst at [FACENS](https://www.facens.br);
 
 📚 **Skills:** NodeJS, TypeScript, Java Spring Boot, GO, React; 
 
