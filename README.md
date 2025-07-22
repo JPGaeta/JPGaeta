@@ -2,7 +2,7 @@
 
 :man_student: **Built in:** Computer Systems Analyst at [FACENS](https://www.facens.br);
 
-📚 **Skills:** NodeJS, TypeScript, Java Spring Boot, GO, React; 
+📚 **Skills:** NodeJS, TypeScript, React, Angular, NextJS, NestJS, Python; 
 
 💻 **Main Tools:** Visual Studio Code and GitHub;
 
